@@ -2,6 +2,10 @@
 
 **Technical Scripting | Automation | Systems & Design** Ankara, Turkey | [LinkedIn](https://www.linkedin.com/in/ataberk-susam-bb1001406/) | ataberksusam@gmail.com
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ---
 
 ## 📌 Professional Summary
