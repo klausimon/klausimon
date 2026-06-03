@@ -23,15 +23,6 @@ An engineering student at Middle East Technical University (METU) focused on bui
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klausimon&show_icons=true&theme=flat&count_private=true&hide_title=true" alt="GitHub Metrics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klausimon&layout=compact&theme=flat&hide_title=true" alt="Language Metrics" width="45%" />
-</p>
-
----
-
 ## 🎓 Education
 
 * **Institution:** Middle East Technical University (METU / ODTÜ)
