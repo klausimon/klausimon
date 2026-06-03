@@ -1,6 +1,6 @@
 # Ataberk Susam
 
-**Technical Scripting | Automation | Systems & Design** Ankara, Turkey | [LinkedIn](https://www.linkedin.com/in/ataberk-susam-bb1001406/) | susam.ataberk@metu.edu.tr
+**Technical Scripting | Automation | Systems & Design** Ankara, Turkey | [LinkedIn](https://www.linkedin.com/in/ataberk-susam-bb1001406/) | ataberksusam@gmail.com
 
 ---
 
