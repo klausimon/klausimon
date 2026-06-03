@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Professional Summary
-An engineering student at Middle East Technical University (METU) focused on building practical solutions at the intersection of software scripting and physical systems. Experienced in developing custom Python frameworks for interface automation and pixel-perfect object recognition. Combines analytical problem-solving with a strong foundation in design, dynamics, and structural analysis to optimize workflows and build functional software tools.
+Mechanical Engineering student at Middle East Technical University (METU). I build practical software tools, focusing heavily on Python automation scripting, computer vision tasks, and CAD modeling.
 
 ---
 
@@ -13,7 +13,7 @@ An engineering student at Middle East Technical University (METU) focused on bui
 
 ### 💻 Programming & Automation
 * **Languages:** Python, MATLAB, C++, JavaScript
-* **Libraries & Frameworks:** OpenCV, Tesseract OCR, NumPy, PyAutoGUI, Math, Time, OS, Subprocess
+* **Libraries & Frameworks:** OpenCV, Tesseract OCR, NumPy
 * **Tools & Environment:** Git, GitHub, PyCharm, npm
 
 ### ⚙️ Design & Analysis
